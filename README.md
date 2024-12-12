@@ -1,1 +1,1 @@
-# CPT212-Implementation-of-Simple-Multiplication-Algorithm
+# Simple-Multiplication-Algorithm VS Kartsuba Algorithm
